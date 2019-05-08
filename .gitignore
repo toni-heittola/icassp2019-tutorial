@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+data/features_asc/
+data/features_sed/
+data/datasets/
