@@ -23,7 +23,8 @@ Example systems are implemented in Python (version 3.x) with Keras (Tensorflow b
     4. Start notebook from command prompt with command `jupyter notebook` (inside the `code_examples` directory), this opens browser interface.
     5. Open notebook file (*.ipynb) from the list
     6. Notebook is constructed from code and text cells, start from the top and execute cell by cell starting from first cell with `shift+enter`
-**Note** : Training of these systems is computationally rather heavy, and GPU accelerated training is advisable. (Make sure to install GPU enabled Tensorflow version)   
+
+**Note** : Training of these systems is computationally rather heavy, and GPU accelerated training is advisable. (Make sure to install GPU enabled Tensorflow version). Directory `code_examples/data/` contains pre-trained models (along with training history), and system outputs for the test set to allow only partial code execution.
 
 ## Changelog
 
