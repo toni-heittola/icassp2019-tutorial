@@ -1,0 +1,5 @@
+scikit-learn >=0.20.3
+dcase_util>=0.2.8
+keras>=2.2.2
+tensorflow>=1.9.0
+sed_eval>=0.2.0
