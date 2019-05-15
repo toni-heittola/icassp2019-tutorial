@@ -7,6 +7,8 @@ Author: **Toni Heittola**, *Tampere University*
 
 This repository contains code examples for the tutorial presented in ICASSP 2019 conference by *Tuomas Virtanen, Annamaria Mesaros, and Toni Heittola*.
 
+Slides for the tutorial can be found [here](http://www.cs.tut.fi/~heittolt/pubs/ICASSP2019_DCASE_tutorial.pdf).
+
 ## Code examples
 
 1. **Sound classification** using acoustic scene classification as example application, system is based convolutional neural networks (CNN) architecture (`code_examples/sound_classification_example.ipynb`)
